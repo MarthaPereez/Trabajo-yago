@@ -4,18 +4,18 @@
 *Domicilio:carrer guadiana, 07009, Palma, España*    
 *Correo electrónico: martaperlo12@gmail.com      :telephone_receiver: Teléfono: (+34)615148901* 
 *Genero: Femenino     Fecha de nacimiento: 14/05/2005       Nacionalidad: Española*
+###SOBRE MÍ
 
-*SOBRE MÍ*
 *Soy una persona simpática, agradable y graciosa. Soy muy resolutiva en caso de conflicto.* 
 *Aprendo rápido y hago las cosas con calma. Suelo relacionarme bien con el resto de compañeros y*
 *clientes y me considero muy activa*
 
-*EDUCACIÓN Y FORMACIÓN*
+###EDUCACIÓN Y FORMACIÓN
 
 [ 12/09/2017 – 23/06/2021 ] *Educacion secundaria obligatoria*
-
 *IES Marratxí https://sites.google.com/iesmarratxi.org/webnova1/inici*
 *Dirección: Carrer Arbre de la Ciència, 07141, marratxi, España*
+
 [ 23/09/2022 – Actual ]*Técnico en Sistemas microinformáticos y redes*
 *CC AULA BALEAR http://www.aulabalear.org/?lang=es*
 *Dirección: C. Can Valero, 19,, 07011, Palma, España*
