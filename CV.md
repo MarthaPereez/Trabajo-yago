@@ -4,6 +4,7 @@
 *Domicilio:carrer guadiana, 07009, Palma, España*    
 *Correo electrónico: martaperlo12@gmail.com      :telephone_receiver: Teléfono: (+34)615148901* 
 *Genero: Femenino           Fecha de nacimiento: 14/05/2005       Nacionalidad: Española*
+
 ### SOBRE MÍ
 
 *Soy una persona simpática, agradable y graciosa. Soy muy resolutiva en caso de conflicto.* 
